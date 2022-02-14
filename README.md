@@ -1,4 +1,4 @@
 # FPL_Clustering
 
 
-This repo contains detailed K-Means clustering with principal component analysis and EDA for Fantasy Premier League dataset.
+Fantasy Premier League veri seti için temel bileşen analizi ve tanımlayıcı istatistikler ile detaylı K-means kümelemesi...
